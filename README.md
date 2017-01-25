@@ -24,3 +24,9 @@ $ ng serve
 ```
 
 Visit http://localhost:4200 and play!
+
+## TODO
+* Save Best Scores
+* Multiple modes with obstacles
+* Update UI
+* ...
