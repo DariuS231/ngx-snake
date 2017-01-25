@@ -12,6 +12,8 @@ UP, DOWN, LEFT, RIGHT - to control snake
 
 ## Setup
 
+Clone this repo and execute in your favourite shell.
+
 Install the npm packages described in the package.json (Angular-cli included):
 
 ```bash
