@@ -1,11 +1,15 @@
 {
   "name": "ngx-snake",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
     "ng": "ng",
     "start": "ng serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SamirHodzic/ngx-snake"
   },
   "private": false,
   "dependencies": {
