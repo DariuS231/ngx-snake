@@ -1,8 +1,8 @@
 # ngx-snake
 
-[![npm version](https://badge.fury.io/js/ngx-snake.svg)](https://badge.fury.io/js/ngx-snake)
-
 ngx-snake is simple Snake arcade game implemented in Angular 2 (latest 2.4.4)
+
+[![npm version](https://badge.fury.io/js/ngx-snake.svg)](https://badge.fury.io/js/ngx-snake)
 
 #### Demo: https://samirhodzic.github.io/ngx-snake/ (Updated: 24/01/2017)
 
@@ -26,7 +26,7 @@ $ ng serve
 Visit http://localhost:4200 and play!
 
 ## TODO
-* Save Best Scores
+* ~~Save Best Score~~
 * Multiple modes with obstacles
 * Update UI
 * ...
