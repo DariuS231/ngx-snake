@@ -1,8 +1,6 @@
-# ngx-snake
+# ngx-Snake
 
-ngx-snake is simple Snake arcade game implemented in Angular 2 (latest 2.4.4)
-
-[![npm version](https://badge.fury.io/js/ngx-snake.svg)](https://badge.fury.io/js/ngx-snake)
+ngx-Snake is simple Snake arcade game implemented in Angular 2 (latest 2.4.4)
 
 #### Demo: https://samirhodzic.github.io/ngx-snake/ (Updated: 25/01/2017)
 
