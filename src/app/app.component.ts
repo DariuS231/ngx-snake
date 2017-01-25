@@ -167,7 +167,7 @@ export class AppComponent implements OnInit {
 		this.gameStarted = false;
 		let me = this;
 
-		if(this.score > this.best_score) {
+		if (this.score > this.best_score) {
 			this.bestScoreService.store(this.score);
 			this.best_score = this.score;
 			this.newBestScore = true;
